@@ -16,7 +16,7 @@ void kernel_main(){
 print_str("<--Muhammad Zeeshan---->\n");
 print_str("<--BSCS 9B (282442)---->\n");
 
-
+    
  char character = 'N';
  
     print_Pattern(character);
