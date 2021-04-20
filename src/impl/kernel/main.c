@@ -7,7 +7,7 @@ int width = 9;
 void kernel_main(){
    print_clear();
 
- 
+
  print_str("\n\n\n");
 //print_str("<------------------------>");
 
